@@ -1,13 +1,13 @@
 {
-  "name": "ngx-admin",
+  "name": "ngx-admin-thinkam.net",
   "version": "2.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akveo/ngx-admin.git"
+    "url": "git+https://github.com/ThinkAM/ngx-admin.git"
   },
   "bugs": {
-    "url": "https://github.com/akveo/ngx-admin/issues"
+    "url": "https://github.com/ThinkAM/ngx-admin/issues"
   },
   "scripts": {
     "ng": "ng",
@@ -40,8 +40,8 @@
     "@angular/platform-browser-dynamic": "4.4.6",
     "@angular/router": "4.4.6",
     "@asymmetrik/angular2-leaflet": "2.1.4",
-    "@nebular/auth": "2.0.0-rc.3",
-    "@nebular/theme": "2.0.0-rc.3",
+    "nebular-thinkam.net-auth": "2.0.0-rc.5",
+    "nebular-thinkam.net-theme": "2.0.0-rc.5",    
     "@ng-bootstrap/ng-bootstrap": "1.0.0-beta.5",
     "@swimlane/ngx-charts": "5.2.0",
     "angular2-chartjs": "0.3.0",

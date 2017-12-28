@@ -15,7 +15,7 @@ import {
   NbThemeModule,
   NbUserModule,
   NbCheckboxModule,
-} from '@nebular/theme';
+} from 'nebular-thinkam.net-theme';
 
 import {
   FooterComponent,
