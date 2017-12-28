@@ -1,5 +1,5 @@
 import { Component, OnDestroy } from '@angular/core';
-import { NbThemeService, NbMediaBreakpoint, NbMediaBreakpointsService } from '@nebular/theme';
+import { NbThemeService, NbMediaBreakpoint, NbMediaBreakpointsService } from 'nebular-thinkam.net-theme';
 
 @Component({
   selector: 'ngx-typography',

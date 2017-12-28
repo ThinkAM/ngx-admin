@@ -6,7 +6,7 @@ import {
   NbMenuService,
   NbSidebarService,
   NbThemeService,
-} from '@nebular/theme';
+} from 'nebular-thinkam.net-theme';
 
 import { StateService } from '../../../@core/data/state.service';
 

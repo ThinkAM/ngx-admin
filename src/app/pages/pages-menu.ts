@@ -1,4 +1,4 @@
-import { NbMenuItem } from '@nebular/theme';
+import { NbMenuItem } from 'nebular-thinkam.net-theme';
 
 export const MENU_ITEMS: NbMenuItem[] = [
   {

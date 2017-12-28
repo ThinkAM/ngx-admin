@@ -1,5 +1,5 @@
 import { AfterViewInit, Component, OnDestroy } from '@angular/core';
-import { NbThemeService } from '@nebular/theme';
+import { NbThemeService } from 'nebular-thinkam.net-theme';
 
 declare const echarts: any;
 

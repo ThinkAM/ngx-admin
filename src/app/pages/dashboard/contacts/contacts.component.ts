@@ -1,5 +1,5 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
-import { NbThemeService, NbMediaBreakpoint, NbMediaBreakpointsService } from '@nebular/theme';
+import { NbThemeService, NbMediaBreakpoint, NbMediaBreakpointsService } from 'nebular-thinkam.net-theme';
 
 import { UserService } from '../../../@core/data/users.service';
 

@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { NbThemeService } from '@nebular/theme';
-import { NbJSThemeOptions } from '@nebular/theme/services/js-themes/theme.options';
+import { NbThemeService } from 'nebular-thinkam.net-theme';
+import { NbJSThemeOptions } from 'nebular-thinkam.net-theme/services/js-themes/theme.options';
 import { AnalyticsService } from '../../../@core/utils/analytics.service';
 
 @Component({
